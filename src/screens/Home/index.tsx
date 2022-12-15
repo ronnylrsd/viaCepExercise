@@ -8,7 +8,6 @@ import api from "../../services/api";
 
 export function Home() {
   const [cepInfo, setCepInfo] = useState({
-    cep: "",
     logradouro: "",
     complemento: "",
     bairro: "",
@@ -45,7 +44,6 @@ export function Home() {
 
       <View style={styles.cepCard}>
         <Text style={styles.cepCardTitle}>As informações do CEP são:</Text>
-        <Text style={styles.cepCardText}>CEP: {cepInfo.cep}</Text>
         <Text style={styles.cepCardText}>Logradouro: {cepInfo.logradouro}</Text>
         <Text style={styles.cepCardText}>Complemento: {cepInfo.complemento}</Text>
         <Text style={styles.cepCardText}>Bairro: {cepInfo.bairro}</Text>
