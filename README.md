@@ -20,12 +20,12 @@
 
 ## 💻 Projeto
 
-
+O exercício consiste em fazer uma tela que terá um campo de input, este vai receber o Código de Endereçamento Postal (CEP) do usuário. Embaixo, existirá um botão que ao ser pressionado irá consultar uma [API](https://aws.amazon.com/pt/what-is/api/) pública de consulta de CEP. Logo após, devem ser mostrado os retornos tragos por essa API (No console do navegador ou na própria tela), no meu caso utilizei a última opção. 
 
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+- [viacep](https://viacep.com.br/)
 - [React-native](https://reactnative.dev/docs/getting-started)
 - [Typescript](https://www.typescriptlang.org/)
 
