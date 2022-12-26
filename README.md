@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Instale o Visual Studio Code
 - Instale o Node.js e o Expo
 - Clone o repositório
+- Abra o projeto
+- Rode o comando `npm install` para instalar as dependências
 
 ## 👷 COLABORADOR
 
