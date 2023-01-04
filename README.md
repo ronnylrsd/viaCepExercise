@@ -9,14 +9,14 @@
 <br>
 
 ## 📱 Tela Principal
-<img src=""
- width=50%>
- ## 📱 Funcionalidades Parte 1
-<img src=""
- width=50%>
-## 📱 Funcionalidades Parte 2
-<img src=""
- width=50%>
+<img src="https://user-images.githubusercontent.com/63603061/210556124-0bf510fe-4573-4284-ae0b-d6fe62faabaa.png"
+ width=30%>
+ ## 📱 Funcionalidades - Testando CEP da Rua do Bom Jesus
+<img src="https://user-images.githubusercontent.com/63603061/210556270-75d3d560-71dc-49b3-9aea-fcd63d6a5673.png"
+ width=30%>
+## 📱 Funcionalidades - Testando CEP da Prefeitura do Recife
+<img src="https://user-images.githubusercontent.com/63603061/210556387-b3532b85-d928-4a7e-9736-4de71b8062f6.png"
+ width=30%>
 
 ## 💻 Projeto
 
