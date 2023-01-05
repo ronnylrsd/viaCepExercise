@@ -2,7 +2,7 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-ambiente">Configurações do Ambiente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-ambiente">Ambiente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-colaborador">Colaborador</a>
 </p>
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React-native](https://reactnative.dev/docs/getting-started)
 - [Typescript](https://www.typescriptlang.org/)
 
-## ⚙️ Configurações do Ambiente ([Expo Managed Workflow](https://docs.expo.dev/introduction/managed-vs-bare/))
+## ⚙️ Ambiente ([Expo Managed Workflow](https://docs.expo.dev/introduction/managed-vs-bare/))
 Preparar o seu ambiente React Native na sua máquina de acordo com o seu sistema operacional.
 ### Windows
 4 ferramentas principais, todos baixados no terminal CMD ou Powershell:
