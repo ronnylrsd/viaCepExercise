@@ -58,7 +58,7 @@ Ferramenta para celular tanto iOS quanto android:
 - Abra o projeto
 - Abra o terminal no vscode
 - Rode o comando `npm install` para instalar as dependências
-- Rode o comando `expo start` ou `npx expo start` para rodar o programa no seu dispositivo ou em um emulaodr
+- Rode o comando `expo start` ou `npx expo start` para rodar o programa no seu dispositivo ou em um emulador
 
 ## 👷 Colaborador
 
