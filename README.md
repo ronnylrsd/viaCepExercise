@@ -30,8 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React-native](https://reactnative.dev/docs/getting-started)
 - [Typescript](https://www.typescriptlang.org/)
 
-## ⚙️ Ambiente ([Expo Managed Workflow](https://docs.expo.dev/introduction/managed-vs-bare/))
-Preparar o seu ambiente React Native na sua máquina de acordo com o seu sistema operacional.
+## ⚙️ Ambiente
+Preparar o seu ambiente React Native para projetos ([Expo Managed Workflow](https://docs.expo.dev/introduction/managed-vs-bare/)) na sua máquina de acordo com o seu sistema operacional.
 ### Windows
 4 ferramentas principais, todos baixados no terminal CMD ou Powershell:
 - **[Node.js (LTS)](https://nodejs.org/en/)** baixar a versão LTS e rodar no terminal `node -v` e `npm -v` para confirmar a instalação.
